@@ -2,4 +2,6 @@ Tensorless/
 Tensorless2/
 trash.ipynb
 notes
+*.log
+*.pkl
 .DS_store
